@@ -103,7 +103,9 @@ There are two kinds of programmers — those who have written compilers and thos
 ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
 ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4zendev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r4zendev&layout=compact&theme=tokyonight)
+
+![r4zen's GitHub stats](https://github-readme-stats.vercel.app/api?username=r4zendev&show_icons=true&theme=tokyonight)
 
 ---
 
